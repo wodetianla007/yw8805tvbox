@@ -24,8 +24,8 @@
         },
 		
         {
-            "name": " 无效不要选了",
-            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json"
+            "name": " 自用XC",
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json"
         },
         {
             "name": "无效不要选了",
@@ -33,8 +33,8 @@
         },
 
         {
-            "name": "无效不要选了",
-            "url": "https://raw.iqiq.io/Reflyer823/tvbox-config/master/main.json"
+            "name": "xiaosa2025120自用加速",
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/wodetianla007/tvbox/refs/heads/master/xiaosa/2025120.json"
         },
         {
             "name": "无效不要选了",
@@ -43,5 +43,6 @@
        
     ]
 }
+
 
 
