@@ -5,15 +5,7 @@
             "name": "心魔仓库🤨",
             "url": "https://gh-proxy.com/raw.githubusercontent.com/yw88075/tvbox/main/yw.json"
         },
-		 {
-            "name": "心魔仓库😍",
-            "url": "https://raw.gitmirror.com/yw88075/tvbox/main/yw.json"
-        },
-		{
-            "name": "心魔仓库🙂",
-            "url": "https://fastly.jsdelivr.net/gh/yw88075/tvbox@main/yw.json"
-        },
-		 {
+	    {
             "name": "道长",
             "url": "https://raw.gitmirror.com/yw88075/tvbox/main/dr/js.json"
         },
@@ -21,20 +13,7 @@
             "name": "饭太硬",
             "url": "http://www.饭太硬.com/tv"
         },
-		{
-            "name": "香雅本地推送",
-            "url": "https://raw.gitmirror.com/yw88075/tvbox/main/XYQTVBox/XYQTVBox.json"
-        },
-        {
-            "name": "荷城茶秀",
-            "url": "http://rihou.cc:88/荷城茶秀"
-        },
-        
-        {
-            "name": "夜猫子",
-            "url": "https://d.looks.wang/我爱夜猫子"
-        },
-   
+
         {
             "name": "肥猫",
             "url": "https://肥猫.com"
@@ -43,26 +22,26 @@
             "name": "多多",
             "url": "https://yydsys.top/duo"
         },
-        
-            
+		
         {
-            "name": " 南风xc",
+            "name": " 无效不要选了",
             "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json"
         },
         {
-            "name": "菜妮丝",
+            "name": "无效不要选了",
             "url": "https://tvbox.cainisi.cf"
         },
 
         {
-            "name": "潇洒空间",
+            "name": "无效不要选了",
             "url": "https://raw.iqiq.io/Reflyer823/tvbox-config/master/main.json"
         },
         {
-            "name": "备用1",
+            "name": "无效不要选了",
             "url": "https://freed.yuanhsing.cf/TVBox/meowcf.json"
         }
        
     ]
 }
+
 
